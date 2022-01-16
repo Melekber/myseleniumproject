@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f259e06d-a920-428c-b5f6-743dc65370f6" name="Default Changelist" comment="" />
+    <list default="true" id="f259e06d-a920-428c-b5f6-743dc65370f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day09_JavaScriptExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day09_ScreenshotSel4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day09_Screenshots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day10_Synchronization1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day10_Synchronization2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day11_ExtentReports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day11_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day11_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day11_WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/Capitals.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework/AmazonDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework/AmazonDropdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework/Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstproject/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Homework/AmazonDropdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Homework/AmazonDropdown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Homework/Locators.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Homework/Locators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/myfirstproject/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/myfirstproject/utilities/TestBase.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -25,7 +47,11 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/4.1.2/poi-4.1.2.jar!/org/apache/poi/ss/usermodel/Sheet.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="22yA7XhR6Oq3NqHgBJh1NGmos8a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,29 +64,17 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/resources" />
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AmazonDropdown.dropdownTest">
-    <configuration name="AmazonDropdown.dropdownTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="myseleniumproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Homework" />
-      <option name="MAIN_CLASS_NAME" value="Homework.AmazonDropdown" />
-      <option name="METHOD_NAME" value="dropdownTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day08_AuthenticationTest.auth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day11_ExtentReports.extentReportsTest">
+    <configuration name="Day11_ExtentReports.extendReportsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -69,14 +83,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_AuthenticationTest" />
-      <option name="METHOD_NAME" value="auth" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day11_ExtentReports" />
+      <option name="METHOD_NAME" value="extendReportsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day08_Cookies.handleCookies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day11_ExtentReports.extentReportsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -85,14 +99,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_Cookies" />
-      <option name="METHOD_NAME" value="handleCookies" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day11_ExtentReports" />
+      <option name="METHOD_NAME" value="extentReportsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day08_FileDownloadTest.downloadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day11_WebTables.getCellData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -101,14 +115,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_FileDownloadTest" />
-      <option name="METHOD_NAME" value="downloadTest" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day11_WebTables" />
+      <option name="METHOD_NAME" value="getCellData" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day08_FileUploadTest.uploadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day11_WebTables.getColumns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +131,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.myfirstproject" />
-      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_FileUploadTest" />
-      <option name="METHOD_NAME" value="uploadTest" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day11_WebTables" />
+      <option name="METHOD_NAME" value="getColumns" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day11_WebTables.printCellTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myseleniumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfirstproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myfirstproject" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day11_WebTables" />
+      <option name="METHOD_NAME" value="printCellTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AmazonDropdown.dropdownTest" />
-        <item itemvalue="JUnit.Day08_Cookies.handleCookies" />
-        <item itemvalue="JUnit.Day08_AuthenticationTest.auth" />
-        <item itemvalue="JUnit.Day08_FileUploadTest.uploadTest" />
-        <item itemvalue="JUnit.Day08_FileDownloadTest.downloadTest" />
+        <item itemvalue="JUnit.Day11_ExtentReports.extentReportsTest" />
+        <item itemvalue="JUnit.Day11_ExtentReports.extendReportsTest" />
+        <item itemvalue="JUnit.Day11_WebTables.printCellTest" />
+        <item itemvalue="JUnit.Day11_WebTables.getColumns" />
+        <item itemvalue="JUnit.Day11_WebTables.getCellData" />
       </list>
     </recent_temporary>
   </component>
